@@ -1,5 +1,8 @@
 /.vscode
+*/.vscode
 
 *.exe
 
 */node_modules
+
+*/target
