@@ -162,7 +162,7 @@ fn main() {
             }
             // println!("{} ", nr_trees);
             score *= nr_trees;
-            nr_trees = 0;
+
             if score > max_score {
                 max_score = score;
             }
